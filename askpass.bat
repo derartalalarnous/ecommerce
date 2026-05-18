@@ -1,2 +1,0 @@
-@echo off
-echo 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
