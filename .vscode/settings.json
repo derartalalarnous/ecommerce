@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./core"
+  ],
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
